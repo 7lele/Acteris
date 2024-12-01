@@ -50,7 +50,7 @@ public class Awesome {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
 
             event.accept(Moditems.RUBY);
-            event.accept(Moditems.RAW_RUBY);
+
         }
     }
 

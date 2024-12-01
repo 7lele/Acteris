@@ -1,9 +1,6 @@
 {
   "entries": [
-    "awesome:metal_detector_from_suspicious_sand",
-    "awesome:biscuit_from_zombie",
-    "awesome:pine_cone_from_leaves",
-    "awesome:metal_detector_from_temples"
+    "awesome:pine_cone_from_leaves"
   ],
   "replace": false
 }
