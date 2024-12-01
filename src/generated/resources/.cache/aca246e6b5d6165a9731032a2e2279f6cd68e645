@@ -1,4 +1,4 @@
-// 1.20.1	2024-11-10T11:03:08.920756	Item Models: awesome
+// 1.20.1	2024-11-30T10:48:32.93693	Item Models: awesome
 28428af4b0cd59bce8aee432f64dfa35a8e0be49 assets/awesome/models/item/biscuit.json
 6710fc7879ef602272b1bd1d644868d7793bb6a7 assets/awesome/models/item/metal_detector.json
 3176eaab21f5914ef371614fcf5aa3cf8f2d4465 assets/awesome/models/item/pine_cone.json
@@ -16,7 +16,6 @@ a396e3e6347d9e12d4959bb4f3eb0d9077775072 assets/awesome/models/item/ruby_boots_d
 9c0d66fd42f72ab75cd78b1f550f8f44700b10ac assets/awesome/models/item/ruby_boots_netherite_trim.json
 58a108815bf811377fc16b1a40fa9e15a51a6f0f assets/awesome/models/item/ruby_boots_quartz_trim.json
 971402ed6549d57ecbc4c874e6bb9b342ccf663b assets/awesome/models/item/ruby_boots_redstone_trim.json
-53ac77111c41aa1a2a3441353769734306ad6e69 assets/awesome/models/item/ruby_button.json
 8a6c16df7880430b362d8df7259b861e8e03b07b assets/awesome/models/item/ruby_chestplate.json
 4edb23655e8432184bb0975fab41b8c5ac078723 assets/awesome/models/item/ruby_chestplate_amethyst_trim.json
 e6c86a4df134d74bcbde5e63b6639df2256f8fe8 assets/awesome/models/item/ruby_chestplate_copper_trim.json
@@ -28,9 +27,6 @@ fd09cb81c7c03f414d746f7c874522d1f393f58f assets/awesome/models/item/ruby_chestpl
 5ff8f841fea06518b4adcbfd65d835b8548a5e7b assets/awesome/models/item/ruby_chestplate_netherite_trim.json
 82d8af2b62c512d9affd331f8e57e0f89edda4b4 assets/awesome/models/item/ruby_chestplate_quartz_trim.json
 e1abf98f36b4c7c2437c486ed257e82c4ef8cb37 assets/awesome/models/item/ruby_chestplate_redstone_trim.json
-4ea39c3a39238a7e933ac0a3ae2a603a22d7d680 assets/awesome/models/item/ruby_door.json
-a370eaa90dd33cb1ceab6dda34a3145af324c2f6 assets/awesome/models/item/ruby_fence.json
-69a20c3cbd1d530be6d845e6204b53e8231232f4 assets/awesome/models/item/ruby_fence_gate.json
 d25c18423bc9fd43d859d98a95d391a21116877a assets/awesome/models/item/ruby_helmet.json
 9ad6db8aa1d6fc9835dd3fd24ac23763f65f6846 assets/awesome/models/item/ruby_helmet_amethyst_trim.json
 cdd7c493480e743e54709753dc8b10a9040debf2 assets/awesome/models/item/ruby_helmet_copper_trim.json
@@ -55,12 +51,6 @@ b8b5477a3b54fea66279517f4d1312b758ead6fa assets/awesome/models/item/ruby_legging
 ed8343c1d03ae1bc2217e18c8582995fcdfa89c9 assets/awesome/models/item/ruby_leggings_quartz_trim.json
 566ec7f7591e54d30bc7468f93bf734ac89dc272 assets/awesome/models/item/ruby_leggings_redstone_trim.json
 ed983abb0d1e7fdaada2804a81266c14767d2c86 assets/awesome/models/item/ruby_pickaxe.json
-0b3a091d5e643b235f086d7e625829d653aeae43 assets/awesome/models/item/ruby_pressure_plate.json
 fbdcfb464a92d5737da0e2b552e84573307a1ba3 assets/awesome/models/item/ruby_shovel.json
-bd8af98e4ccf1eee3edbc9872721976fab468614 assets/awesome/models/item/ruby_slab.json
-14b40ac56b55e6936e7469e90b8a4d044b739f76 assets/awesome/models/item/ruby_stairs.json
 9498687e92801794ac4caef907a3a1dcb59cc549 assets/awesome/models/item/ruby_sword.json
-3d0fd6495ee2379b140742c2d36b56b772270824 assets/awesome/models/item/ruby_trapdoor.json
-d898bcd65a117a257be37a7e50a96fe09d3e0699 assets/awesome/models/item/ruby_wall.json
 f08eed3825177640981c941771aedd0e99e59103 assets/awesome/models/item/tomato.json
-a03cd37b98d54097c4b91b9857f8cda144e4f728 assets/awesome/models/item/tomato_seeds.json

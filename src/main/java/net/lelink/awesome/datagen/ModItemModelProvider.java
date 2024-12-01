@@ -47,39 +47,6 @@ public class ModItemModelProvider extends ItemModelProvider {
     protected void registerModels() {
 
         simpleItem(Moditems.RUBY);
-        simpleItem(Moditems.RAW_RUBY);
-
-        simpleItem(Moditems.METAL_DETECTOR);
-        simpleItem(Moditems.PINE_CONE);
-        simpleItem(Moditems.BISCUIT);
-        simpleItem(Moditems.TOMATO);
-        simpleItem(Moditems.TOMATO_SEEDS);
-
-
-        simpleBlockItem(ModBlocks.RUBY_DOOR);
-
-        fenceItem(ModBlocks.RUBY_FENCE, ModBlocks.RUBY_BLOCK);
-        buttonItem(ModBlocks.RUBY_BUTTON, ModBlocks.RUBY_BLOCK);
-        wallItem(ModBlocks.RUBY_WALL, ModBlocks.RUBY_BLOCK);
-
-        evenSimplerBlockItem(ModBlocks.RUBY_STAIRS);
-        evenSimplerBlockItem(ModBlocks.RUBY_SLAB);
-        evenSimplerBlockItem(ModBlocks.RUBY_PRESSURE_PLATE);
-        evenSimplerBlockItem(ModBlocks.RUBY_FENCE_GATE);
-
-        trapdoorItem(ModBlocks.RUBY_TRAPDOOR);
-
-        handheldItem(Moditems.RUBY_SWORD);
-        handheldItem(Moditems.RUBY_AXE);
-        handheldItem(Moditems.RUBY_PICKAXE);
-        handheldItem(Moditems.RUBY_SHOVEL);
-        handheldItem(Moditems.RUBY_HOE);
-
-        trimmedArmorItem(Moditems.RUBY_HELMET);
-        trimmedArmorItem(Moditems.RUBY_CHESTPLATE);
-        trimmedArmorItem(Moditems.RUBY_LEGGINGS);
-        trimmedArmorItem(Moditems.RUBY_BOOTS);
-
 
     }
 

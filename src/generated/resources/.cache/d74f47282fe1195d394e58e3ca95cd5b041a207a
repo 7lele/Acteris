@@ -1,10 +1,2 @@
-// 1.20.1	2024-10-07T12:45:05.618784	Tags for minecraft:block mod id awesome
-140f79c00444fbad9359560ca15200c244cdaf60 data/awesome/tags/blocks/metal_detector_valuables.json
-6f6413c0012c1edfe19b300c3dfed0c4a2d52b46 data/awesome/tags/blocks/need_ruby_tool.json
-a539c58cc202c0e474ff49b158d3889cc2fa9670 data/forge/tags/blocks/needs_netherite_tool.json
-5258f9fb111df3c128b801648b6ed1e0c68e6cf6 data/minecraft/tags/blocks/fence_gates.json
-da7703604d2022abeec2203d3ff0b0762bb0f635 data/minecraft/tags/blocks/fences.json
-e13157b7839ded64b4366257f35bcc93e468143e data/minecraft/tags/blocks/mineable/pickaxe.json
-5859aab9b6bf5dece4180e972723085ce72740aa data/minecraft/tags/blocks/needs_diamond_tool.json
-e64a12b1bd97172aa9766e57b71ceb0e8b37d257 data/minecraft/tags/blocks/needs_iron_tool.json
-16e067e34d8e1daea4b47c2a0d36f986398fd0bc data/minecraft/tags/blocks/walls.json
+// 1.20.1	2024-11-30T10:48:32.935905	Tags for minecraft:block mod id awesome
+d7c7e6cf3b1eb72482b850c6c1c35ca2e6b2d049 data/minecraft/tags/blocks/mineable/pickaxe.json

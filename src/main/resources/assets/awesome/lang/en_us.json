@@ -1,51 +1,7 @@
 {
   "item.awesome.ruby": "Ruby",
-  "item.awesome.raw_ruby": "Raw Ruby",
-  "item.awesome.metal_detector": "Metal Detector",
-  "item.awesome.biscuit": "Biscuit",
-  "item.awesome.pine_cone": "Pine Cone",
-  "item.awesome.ruby_staff": "Ruby Staff",
-  "item.awesome.ruby_sword": "Ruby Sword",
-  "item.awesome.ruby_pickaxe": "Ruby Pickaxe",
-  "item.awesome.ruby_axe": "Ruby Staff",
-  "item.awesome.ruby_shovel": "Ruby Shovel",
-  "item.awesome.ruby_hoe": "Ruby Hoe",
-
-  "item.awesome.ruby_helmet": "Ruby Helmet",
-  "item.awesome.ruby_chestplate": "Ruby Chestplate",
-  "item.awesome.ruby_leggings": "Ruby Legging",
-  "item.awesome.ruby_boots": "Ruby Boots",
-
-  "item.awesome.tomato": "Tomato",
-  "item.awesome.tomato_seeds": "Tomato Seeds",
-
   "block.awesome.ruby_block": "Block of Ruby",
-  "block.awesome.ruby_ore": "Ruby Ore",
-  "block.awesome.deepslate_ruby_ore": "Deepslate Ruby Ore",
-  "block.awesome.nether_ruby_ore": "Nether Ruby Ore",
-  "block.awesome.end_stone_ruby_ore": "Endstone Ruby Ore",
-  "block.awesome.ruby_log": "Ruby Log",
-  "block.awesome.ruby_stairs": "Ruby Stairs",
-  "block.awesome.ruby_slab": "Ruby slab",
-  "block.awesome.ruby_button": "Ruby button",
-  "block.awesome.ruby_pressure_plate": "Ruby pressure_plate",
-  "block.awesome.ruby_fence": "Ruby fence",
-  "block.awesome.ruby_fence_gate": "Ruby fence_gate",
-  "block.awesome.ruby_wall": "Ruby wall",
-  "block.awesome.ruby_door": "Ruby door",
-  "block.awesome.ruby_trapdoor": "Ruby trapdoor",
-  "block.awesome.sound_block": "Sound Block",
-  "tooltip.awesome.ruby_staff.tooltip": "Summon Lightningbolts",
 
-
-
-
-
-
-
-  "tooltip.awesome.metal_detector.tooltip": "Finding Ores Underground",
-  "tooltip.awesome.sound_block": "Make sound when right-clicked !",
-
-  "creativetab.awesome_tab": "Awesome Tab"
+  "creativetab.acteris_tab": "Acteris"
 
 }

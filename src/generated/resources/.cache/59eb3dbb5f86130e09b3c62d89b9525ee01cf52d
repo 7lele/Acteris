@@ -1,17 +1,2 @@
-// 1.20.1	2024-11-10T11:03:08.918347	Loot Tables
-bab362497359740a1ecc3e9aaf385781460c05a4 data/awesome/loot_tables/blocks/deepslate_ruby_ore.json
-48f2c7e973e99e447e1a283d0f1dfecd2c84cc93 data/awesome/loot_tables/blocks/end_stone_ruby_ore.json
-1535e2360422df7a128c1fbb6c9d621078e00808 data/awesome/loot_tables/blocks/nether_ruby_ore.json
+// 1.20.1	2024-11-30T10:48:32.933434	Loot Tables
 690f134e366d05163460c5c5208cd0b15483afb8 data/awesome/loot_tables/blocks/ruby_block.json
-aa93941832a76206cbf7774021b29af7fbf30a3f data/awesome/loot_tables/blocks/ruby_button.json
-6006a3fb9c04bd92bb1f77849005300b3234d308 data/awesome/loot_tables/blocks/ruby_door.json
-8b635ff3d8956ff802d3aa7755305a4602d365e5 data/awesome/loot_tables/blocks/ruby_fence.json
-d23cd0353428e2db80a9f3f97aebdb3cc2195d46 data/awesome/loot_tables/blocks/ruby_fence_gate.json
-1e05f84f71a366a4606949ea7743cc77e42e988c data/awesome/loot_tables/blocks/ruby_ore.json
-b6567750d2a2b31cdf1df8e1e04a2dd781560d63 data/awesome/loot_tables/blocks/ruby_pressure_plate.json
-2cc00aa75e6ee34a9b0551ba46c7764bbc09bd91 data/awesome/loot_tables/blocks/ruby_slab.json
-00ae17cff826be6f0145f364c63cb90b82d46a27 data/awesome/loot_tables/blocks/ruby_stairs.json
-77309c615c54098049ec8cc8a48285cc73796dcd data/awesome/loot_tables/blocks/ruby_trapdoor.json
-33f908c6754d6ed0b30f21fc80a657592f35da26 data/awesome/loot_tables/blocks/ruby_wall.json
-5b433088a0c632183e992bc43e12cd40d8e530a9 data/awesome/loot_tables/blocks/sound_block.json
-42810b8cdf71becc37035a4481a9a9a1c0adc790 data/awesome/loot_tables/blocks/tomato_crop.json

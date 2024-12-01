@@ -19,11 +19,6 @@ public class ModItemTagGenerator extends ItemTagsProvider {
 
     @Override
     protected void addTags(HolderLookup.Provider provider) {
-        this.tag(ItemTags.TRIMMABLE_ARMOR)
-                .add(Moditems.RUBY_HELMET.get(),
-                        Moditems.RUBY_CHESTPLATE.get(),
-                        Moditems.RUBY_LEGGINGS.get(),
-                        Moditems.RUBY_BOOTS.get());
-
+        this.tag(ItemTags.TRIMMABLE_ARMOR);
     }
 }
